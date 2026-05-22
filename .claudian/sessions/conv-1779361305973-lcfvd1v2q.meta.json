@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779361305973-lcfvd1v2q",
+  "providerId": "claude",
+  "title": "开始对话",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779361305975,
+  "updatedAt": 1779361317267,
+  "lastResponseAt": 1779361314161,
+  "sessionId": "23885aae-d655-407b-97cf-3a44ae639a46",
+  "providerState": {
+    "providerSessionId": "23885aae-d655-407b-97cf-3a44ae639a46"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 18956,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 18959,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}
