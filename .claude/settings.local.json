@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -f \"d:/學習資料/AI學習/Obsidian學習/karpathy-llm-wiki-vault/wiki/concepts/\"*.md \"d:/學習資料/AI學習/Obsidian學習/karpathy-llm-wiki-vault/wiki/entities/\"*.md \"d:/學習資料/AI學習/Obsidian學習/karpathy-llm-wiki-vault/wiki/sources/\"*.md \"d:/學習資料/AI學習/Obsidian學習/karpathy-llm-wiki-vault/wiki/syntheses/\"*.md && echo \"Done\")"
+    ],
+    "additionalDirectories": [
+      "d:\\學習資料\\AI學習\\Obsidian學習\\karpathy-llm-wiki-vault\\wiki\\concepts"
+    ]
+  }
+}
